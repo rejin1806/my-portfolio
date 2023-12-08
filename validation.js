@@ -106,7 +106,7 @@ const form = document.querySelector('form');
 
 
     // email submission
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbxemyKWXwJbufpuyuDeMDs2k2t1XHNQYhqU_gTwnIi9cyfkAS2CMeI7CeviPNA_jfbXgQ/exec';
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbxWrEqEFD3OT6ctPN0oN44DHYvd_Ueu3ZYg-MioUDCH7FvQu90XZqG7e_5ABU7AvpOV/exec';
 
 const msg = document.getElementById("msg")
 
